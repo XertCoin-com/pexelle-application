@@ -23,7 +23,7 @@
 
 - Added automatic profile completion from uploaded CV documents and images.
 
-- Improved Share Profile UI and behavior. ([26ad593](https://github.com/XertCoin-com/mobile-app/commit/26ad593fe1a5dc6258065be7d97bb6a05d8202dc))
+- Improved Share Profile UI and behavior.
 
 - Updated default sharing behavior: sharing is enabled by default and includes all public evidences.
 
