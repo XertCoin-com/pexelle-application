@@ -1,4 +1,4 @@
-## Pexelle App – Changelog (v2.0.1)
+## Pexelle App – Changelog
 
 
 ### v2.0.1 - 2026-02-23
